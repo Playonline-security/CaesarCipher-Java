@@ -47,7 +47,7 @@ CaesarCipher/
 3. Ejecuta `MainApp`.
 4. Sigue las instrucciones en consola:
    - 1️⃣ Encriptar o 2️⃣ Desencriptar.
-   - Si desencriptar, escoge método (clave, fuerza bruta o análisis estadístico).
+   - Si elige desencriptar, escoge un método (clave, fuerza bruta o análisis estadístico).
    - 📂 Proporciona rutas válidas para archivos de entrada y salida.
    - 🔢 Ingresa la clave si es necesario.
 
@@ -55,6 +55,7 @@ CaesarCipher/
 
 ## 📖 Ejemplo
 
+```
 🔐 Bienvenido al programa de Cifrado César 🔐
 Escribe 'salir' en cualquier momento para finalizar el programa.
 Seleccione una opción:
@@ -65,7 +66,7 @@ Seleccione una opción:
 🔢 Ingresa la clave (1–25): 3
 📄 Ingresa la ruta del archivo de salida: output.txt
 ✅ Archivo escrito correctamente.
-
+```
 
 ---
 
