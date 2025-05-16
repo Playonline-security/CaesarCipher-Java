@@ -30,6 +30,7 @@ El programa está diseñado para texto en inglés utilizando únicamente el alfa
 
 ## 📂 Estructura del proyecto
 
+```
 CaesarCipher/
 │
 ├── MainApp.java # Punto de entrada y menú principal.
@@ -38,6 +39,7 @@ CaesarCipher/
 ├── Validator.java # Validación de entradas y archivos.
 ├── BruteForce.java # Desencriptado por fuerza bruta.
 └── StatisticalAnalyzer.java # Análisis estadístico para detectar clave.
+```
 
 ---
 
