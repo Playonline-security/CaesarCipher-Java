@@ -1,6 +1,3 @@
-# CaesarCipher-Java
-Proyecto en Java que implementa un cifrador y descifrador César con métodos de encriptado, desencriptado por clave, fuerza bruta y análisis estadístico, para procesar textos en inglés mediante archivos.
-
 # 🔐 Cifrado César - Proyecto en Java
 
 Este proyecto implementa un cifrador y descifrador César con varias funcionalidades, incluyendo métodos de desencriptado por clave, fuerza bruta y análisis estadístico.
